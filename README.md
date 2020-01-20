@@ -5,11 +5,9 @@ Analysis Report on the past data of losses from an insurance company on automobi
 same featured data as this dataset to decide amount of premium of new customer’s.
 
 main.py :-> contains main code in python.
-
 selectionprocess.py :-> it is a function to be used in main.py
 
 Historical_Losses_Data.csv :-> is the dataset used for analysis
-
 Historical Losses dataset(Data Dictionary).xlsx :-> contains details about features/variables.
 
 Historical_Losses_data_Analysing_Report.pdf -> 
